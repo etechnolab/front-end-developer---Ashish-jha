@@ -1,0 +1,52 @@
+h2{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.task{
+    
+        margin: auto;
+        width: 50%;
+        border: 3px solid gray;
+        padding: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+  
+    margin-bottom: 30px;
+   
+}
+
+label {
+    margin: auto;
+    padding-right: 10px;
+    font-size: 1rem;
+}
+.progress{
+    width: 50%;
+    padding: 10px;
+}
+.htag{
+    font-size: 1.8rem;
+}
+.Content{
+    border-color: coral;
+    margin: 12px;
+    padding: 22px 24px 22px 24px;
+}
+.important{
+    color:#D93025;
+    Font: 14px Roboto, Arial, sans-serif ;
+    margin: 12px;
+}
+.main{
+    border-color: coral;
+    margin: 12px;
+    padding: 22px 24px 22px 24px;
+}
+
+.Component{
+    border: none;
+    border-bottom: 2px solid rgb(65, 65, 192);
+    margin: 12px;
+    padding: 0px 0px 10px;
+}
+
